@@ -1,1 +1,4 @@
-# BirthdayGiftSite
+body{
+    text-align: center;
+    
+}
